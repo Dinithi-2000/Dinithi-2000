@@ -13,13 +13,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinithi-2000&theme=onedark&margin-w=10&margin-h=10" alt="dinithi-2000" /></a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/dininavo_2000" target="blank">
-    <img src="https://img.shields.io/twitter/follow/dininavo_2000?logo=twitter&style=for-the-badge&color=1DA1F2" alt="dininavo_2000" />
-  </a>
-</p>
-
----
 ---
 
 ### 🎓 Certifications
