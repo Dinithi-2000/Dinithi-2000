@@ -20,6 +20,17 @@
 </p>
 
 ---
+---
+
+### 🎓 Certifications
+
+[![Postman Student Expert Badge](https://api.badgr.io/public/assertions/2toGFWrbRvOSgK4CCoOGfQ/image)](https://api.badgr.io/public/assertions/2toGFWrbRvOSgK4CCoOGfQ?identity__email=it23481244%40my.sliit.lk)  
+**Postman API Fundamentals Student Expert**  
+*Issued by Postman | [View Credential](https://api.badgr.io/public/assertions/2toGFWrbRvOSgK4CCoOGfQ?identity__email=it23481244%40my.sliit.lk)*
+
+---
+
+
 
 ### 🌱 Current Focus:
 - 🚀 **MERN Stack Development**
